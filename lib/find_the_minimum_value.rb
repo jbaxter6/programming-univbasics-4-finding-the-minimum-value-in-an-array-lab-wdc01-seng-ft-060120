@@ -11,5 +11,6 @@ def find_min_value(array)
       end
     counter += 1
   end
+  min_value
 end
 
